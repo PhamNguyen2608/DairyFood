@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css2?family=Waterfall&display=swap");
+.checkout-item-button {
+  width: 70px;
+}
+
+.error {
+  color: red;
+}
+.textbox {
+  border: 1px solid #ddd;
+  padding: 10px;
+  width: 100%;
+  height: 230px;
+  margin: 0 !important;
+  font-family: 'Roboto', sans-serif; /* thay đổi font chữ cho phù hợp */
+  font-size: 16px; /* thay đổi kích thước chữ */
+  line-height: 1.5; /* thay đổi độ cao dòng */
+  color: #333; /* thay đổi màu chữ */
+  box-shadow: none; /* bỏ đổ bóng */
+  outline: none; /* bỏ đường viền khi focus */
+  resize: none; /* bỏ khả năng resize */
+  background-color: #bdb9b9;
+  color: rgb(48, 48, 48);
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
+}
+
+.text-cook{
+  
+	color: rgb(0, 0, 0);
+	 font-family: "Waterfall", cursive;
+	 font-size: 50px;
+	 font-weight: normal;
+}

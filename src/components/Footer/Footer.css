@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Waterfall&display=swap");
+.bg-color {
+	background-color: rgb(0, 0, 0);
+}
+
+.text-color {
+	color: rgb(255, 69, 101);
+}
+.text-wellcome{
+	color: rgb(255, 69, 101);
+	 font-family: "Waterfall", cursive;
+	 font-size: 100px;
+	 font-weight: normal;
+}
+footer img {
+	height: 70px;
+}
+
+footer a {
+	color: #ffffff;
+	line-height: 2;
+}
+
+footer a:hover {
+	color: rgb(74, 0, 192);
+}
